@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="no_permission">No access to contacts</string>
+    <string name="grant">Grant access</string>
+    <string name="loading">Loading…</string>
+    <string name="no_contacts">No contacts found</string>
+    <string name="no_dialer">No app for calls</string>
+    <string name="found">Found %d contacts</string>
+</resources>

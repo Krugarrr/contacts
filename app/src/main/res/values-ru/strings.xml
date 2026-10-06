@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Контакты</string>
+    <string name="no_permission">Нет доступа к контактам</string>
+    <string name="grant">Дать доступ</string>
+    <string name="loading">Загрузка…</string>
+    <string name="no_contacts">Контакты не найдены</string>
+    <string name="no_dialer">Нет приложения для звонков</string>
+    <string name="found">Найдено %d контактов</string>
+</resources>
